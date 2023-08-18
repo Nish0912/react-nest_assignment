@@ -1,22 +1,18 @@
 # react-nest_assignment
 
 
-Front end
-## Installation
-
+#Front end
+Installation
 npm install
 
-## Running the app
-
+Running the app
 npm run dev
 
 
-Back end
+#Back end
 
-## Installation
-
+Installation
 npm install
 
-## Running the app
-
+Running the app
 npm run start:dev
