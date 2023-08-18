@@ -2,17 +2,17 @@
 
 
 #Front end
-Installation
+Installation:
 npm install
 
-Running the app
+Running the app:
 npm run dev
 
 
 #Back end
 
-Installation
+Installation:
 npm install
 
-Running the app
+Running the app:
 npm run start:dev
